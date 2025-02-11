@@ -6,8 +6,7 @@ project(runner LANGUAGES CXX)
 # the on-disk name of your application.
 set(BINARY_NAME "theticketapp")
 # The unique GTK application identifier for this application. See:
-# https://wiki.gnome.org/HowDoI/ChooseApplicationID
-set(APPLICATION_ID "com.example.theticketapp")
+# https:set(APPLICATION_ID "com.example.theticketapp")
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.
